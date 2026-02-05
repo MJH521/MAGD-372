@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\capta\\Desktop\\MAGD 272\\MAGD 372 Assignments Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 272\\magd 372 assignments project\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 272\\magd 372 assignments project\\assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\mouselook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 272\\MAGD 372 Assignments Project\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 272\\MAGD 372 Assignments Project\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T05:22:39.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseLook.cs",
+              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 272\\MAGD 372 Assignments Project\\Assets\\MouseLook.cs",
+              "RelativeDocumentMoniker": "Assets\\MouseLook.cs",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 272\\MAGD 372 Assignments Project\\Assets\\MouseLook.cs",
+              "RelativeToolTip": "Assets\\MouseLook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBQwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T05:10:58.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
