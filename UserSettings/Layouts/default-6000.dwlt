@@ -456,7 +456,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 08b40000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 00fbffff
       m_RenameOverlay:
@@ -1153,7 +1153,8 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\capta\Desktop\MAGD 372\MAGD 372 Assignments Project
+  m_LastProjectPath: C:\Users\capta\Desktop\MAGD 372\MAGD-372\MAGD 372 Assignments
+    Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
