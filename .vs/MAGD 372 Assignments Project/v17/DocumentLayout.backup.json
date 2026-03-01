@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 372\\magd-372\\magd 372 assignments project\\assets\\meshgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 372\\magd-372\\magd 372 assignments project\\assets\\teleportscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\teleportscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 372\\magd-372\\magd 372 assignments project\\assets\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NewMonoBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\assets\\meshgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\meshgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,15 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TeleportScript.cs",
+              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\TeleportScript.cs",
+              "RelativeDocumentMoniker": "Assets\\TeleportScript.cs",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\TeleportScript.cs",
+              "RelativeToolTip": "Assets\\TeleportScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:56:00.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\EventManager.cs",
+              "RelativeDocumentMoniker": "Assets\\EventManager.cs",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\EventManager.cs",
+              "RelativeToolTip": "Assets\\EventManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:52:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewMonoBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewMonoBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T19:50:48.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MeshGenerator.cs",
               "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\MeshGenerator.cs",
               "RelativeDocumentMoniker": "Assets\\MeshGenerator.cs",
-              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\MeshGenerator.cs*",
-              "RelativeToolTip": "Assets\\MeshGenerator.cs*",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAQwG8AAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\MeshGenerator.cs",
+              "RelativeToolTip": "Assets\\MeshGenerator.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAIBJwG8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-22T21:06:02.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-22T21:06:02.398Z"
             }
           ]
         }
