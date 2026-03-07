@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\assets\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 372\\magd-372\\magd 372 assignments project\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 372\\magd-372\\magd 372 assignments project\\assets\\teleportscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\teleportscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 372\\magd-372\\magd 372 assignments project\\assets\\turncolorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\turncolorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|c:\\users\\capta\\desktop\\magd 372\\magd-372\\magd 372 assignments project\\assets\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF499A4-AF95-E9B1-AAFF-7A620186DC44}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EventManager.cs",
-              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\EventManager.cs",
-              "RelativeDocumentMoniker": "Assets\\EventManager.cs",
-              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\EventManager.cs",
-              "RelativeToolTip": "Assets\\EventManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T19:52:08.21Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TurnColorScript.cs",
-              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\TurnColorScript.cs",
-              "RelativeDocumentMoniker": "Assets\\TurnColorScript.cs",
-              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\TurnColorScript.cs",
-              "RelativeToolTip": "Assets\\TurnColorScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T19:58:20.71Z",
+              "WhenOpened": "2026-03-07T21:16:29.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TeleportScript.cs",
-              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\TeleportScript.cs",
-              "RelativeDocumentMoniker": "Assets\\TeleportScript.cs",
-              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\TeleportScript.cs",
-              "RelativeToolTip": "Assets\\TeleportScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPool.cs",
+              "ToolTip": "C:\\Users\\capta\\Desktop\\MAGD 372\\MAGD-372\\MAGD 372 Assignments Project\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPool.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-01T19:56:00.106Z",
+              "WhenOpened": "2026-03-07T21:09:26.857Z",
               "EditorCaption": ""
             }
           ]
